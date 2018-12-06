@@ -15,7 +15,7 @@ var gameCore = {
     loseCount: 0,
     triesLeft: 10,
     wordList: ['DRAGON', 'TYRION', 'LANNISTER', 'BRAN', 'KHALEESI', 'IRON THRONE', 'GHOST', 'WHITE WALKER' , 'STARK', 'TARGARYAN'], //List of words for game
-    imgList: ['', '', '', 'Earth.jpg', 'Mars.jpg', 'Jupiter.jpg', 'Neptune.jpg', 'FullMoon.jpg', 'blackhole.jpg', 'NASA.jpg'], //List image reference
+    imgList: ['', '', '', '', '', '', '', '', '', ''],
     answers: "",
     imageSrc: "",
     displayWord: [],
